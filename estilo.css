@@ -22,17 +22,17 @@ body {
     height: 100vh;
 }
 
-page-title {
+.page-title {
     color: #ffffff;
     margin: 0 0 5px;
 }
 
-page-subtitle {
+.page-subtitle {
     color: #ffffff;
     margin-top: 5px;
 }
 
-page-logo {
+.page-logo {
     width: 200px;
 }
 
@@ -46,8 +46,7 @@ page-logo {
 input {
     margin: 12px;
     padding: 6px;
-    border-radius: 10px;
-    background: #ffffff;
+    border-radius: 5px;
 }
 
 label {
